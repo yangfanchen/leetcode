@@ -8,5 +8,6 @@ public class TowerOfHanoi {
 		TowersOfHanoi(n-1,frompeg,auxpeg,topeg);
 		System.out.println("Move disk from peg"+frompeg+" to peg"+topeg);
 		TowersOfHanoi(n-1,auxpeg,topeg,frompeg);
+		//addasd
 	}
 }
